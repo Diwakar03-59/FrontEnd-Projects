@@ -1,0 +1,238 @@
+.container {
+    background-image: url(Images/banner.jpg);
+    background-size: cover;
+}
+
+.shadow {
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 73vh;
+    display: flex;
+    justify-content: center;
+}
+
+.contents {
+    width: 1200px;
+    padding: 50px 0px 50px 0px;
+    justify-content: center;
+}
+
+.nav {
+    background-color: rgb(0, 190, 150);
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.nav-inner {
+    width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0px auto;
+
+}
+
+.logo {
+    padding: 15px;
+    
+}
+
+.ho {
+    padding: 15px 10px;
+    color: white;
+    font-size: 1rem;
+    text-decoration: none;
+}
+
+.arrow {
+    padding: 15px;
+}
+
+.left {
+    list-style-type: none;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.want {
+    padding: 5px;
+    background-color: rgb(255, 72, 0);
+    border-radius: 30px;
+    border: none;
+    width: 150px;
+}
+
+.want-button {
+    padding: 10px;
+    list-style-type: none;
+}
+
+
+.nav-2 {
+    background-color: white;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+
+.unorder-list {
+    display: flex;
+    padding-left: 0px;
+    margin: 0px;
+    justify-content: center;
+}
+
+.sec-nav {
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+}
+
+.sec-nav-item {
+    padding: 25px 0px;
+    text-decoration: none;
+    color: black;
+}
+
+.arrow2 {
+    padding: 25px 10px;
+}
+
+.search{
+    display: flex;
+    align-items: center;
+    width: 200px;
+    padding: 5px;
+    justify-content: space-between;
+    border-radius: 20px;
+
+}
+
+
+.centre {
+    margin: 0px auto;
+    width: 1200px;
+    display: flex;
+    justify-content: center;
+}
+
+.con {
+    display: block;
+    justify-content: center;
+}
+
+.head {
+    width: 385px;
+    text-align: center;
+    margin-left: 55px;
+    color: white;
+}
+
+.appointment {
+    color: white;
+    text-align: center;
+}
+
+.app-button {
+   text-align: center;
+   padding: 10px;
+   background-color: rgb(255, 72, 0);
+   border: none;
+   border-radius: 50px;
+   color: white;
+   font-size: 1rem;
+   width: 270px;
+   
+}
+
+.awards {
+    display: flex;
+    width: 800px;
+    margin: 0px auto;
+   
+    
+}
+
+.award {
+    padding: 10px;
+    width: 25%;
+    
+}
+
+.award1 {
+    width: 25%;
+    padding: 25px;
+    
+    border-right: 1px solid white;
+}
+
+
+.awar {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+
+}
+
+
+.foo {
+    display: flex;
+    width: 100%;
+}
+
+.foot {
+    background-color: white;
+    margin: 0px auto;
+    width: 820px;
+    display: block;
+    margin-top: -60px;
+    border-radius: 10px;
+    border: 1px solid rgb(172, 157, 157);
+    
+}
+
+.foot-head {
+    display: flex;
+    justify-content: space-between;
+    width: 800px;
+    padding: 10px;
+}
+
+.social {
+    display: block;
+    float: left;
+    justify-content: start;
+    margin-top: 50px;
+}
+
+.select-menu {
+    display: flex;
+    text-decoration: none;
+    width: 800px;
+    padding: 10px;
+    padding-top: 0px;
+    
+}
+
+.select {
+    color: black;
+    width: 33.33%;
+    border-radius: 20px;
+    margin-right: 10px;
+}
+
+.saer2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 150px;
+    padding: 5px;
+    border-radius: 20px;
+    background-color:  rgb(255, 72, 0);
+    border: none;
+    color: white;
+
+}
